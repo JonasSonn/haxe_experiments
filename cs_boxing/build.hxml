@@ -1,0 +1,5 @@
+-cp src
+
+-m Main
+--cs bin/cs425
+-D net-ver=45
